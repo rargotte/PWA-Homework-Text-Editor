@@ -6,10 +6,6 @@ const { ExpirationPlugin } = require('workbox-expiration');
 const { precacheAndRoute } = require('workbox-precaching/precacheAndRoute');
 const { StaleWhileRevalidate } = require('workbox-strategies');
 
-// Import the expiration plugin
-import { ExpirationPlugin } from 'workbox-expiration';
-
-
 precacheAndRoute(self.__WB_MANIFEST);
 
 const pageCache = new CacheFirst({
