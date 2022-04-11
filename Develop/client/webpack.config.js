@@ -37,11 +37,11 @@ module.exports = () => {
         inject: true,
         name: 'Just Another Text Editor',
         short_name: 'J.A.T.E',
-        description: 'Takes notes with JavaScript sintax highlighting',
+        description: 'Text Editor Application',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         orientation: 'portrait',
-        Display: 'standalone',
+        display: 'standalone',
         start_url: '/',
         publicPath: '/',
         icons: [
