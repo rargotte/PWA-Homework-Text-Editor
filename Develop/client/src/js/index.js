@@ -34,5 +34,6 @@ if (typeof editor === 'undefined') {
 //}
 
 // Call registerSW method
+
 registerSW();
 
