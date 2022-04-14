@@ -43,7 +43,9 @@ The app works with a IndexedDB database. It also uses Javascript files which are
   
   Here there is a video that show how the solution works:
 
-  
+
+  https://user-images.githubusercontent.com/93161922/163296162-56564f2f-1150-4d8e-9400-9869d3e6f197.mp4
+
 
 
 
